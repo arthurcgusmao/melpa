@@ -1,0 +1,1 @@
+(restore-point :repo "arthurcgusmao/restore-point" :fetcher github)
